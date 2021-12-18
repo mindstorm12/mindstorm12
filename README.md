@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mindstorm12
-- 👀 I’m interested in Vue, Strapi, Ubuntu, React
+- 👀 I’m interested in Vue, Strapi, Ubuntu, React, Apostrophe
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Nothing right now but hit me up on ideas
 - 📫 How to reach me ... I dont know if you can message me here but thats it
